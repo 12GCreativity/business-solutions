@@ -48,6 +48,7 @@ A production-ready map of software ecosystems designed to manage business scalin
 ### 💎 Premium / Enterprise Ecosytems
 * **[SAP S/4HANA](https://www.sap.com/)** – High-tier global corporate ERP infrastructure dominating major international manufacturing and supply lines.
 * **[Oracle NetSuite](https://www.netsuite.com/)** – The leading enterprise cloud ERP suited for mid-to-large multi-entity real estate, distribution, and corporate operations.
+* **[Odoo Enterprise (Cloud/On-Premise)](https://www.odoo.com/)** – The paid tier that unlocks multi-database architectures, advanced automation rules, accounting localizations, and the complete, interconnected app ecosystem for scaling businesses.
 
 ---
 
