@@ -12,6 +12,7 @@ Une cartographie logicielle adaptée au passage à l'échelle des entreprises. L
 5. [📅 Gestion de Projet & Espace de Travail](#5-gestion-de-projet--espace-de-travail)
 6. [📈 Business Intelligence (BI) & Analyse de Données](#6-business-intelligence-bi--analyse-de-données)
 7. [⚖️ Juridique, Signatures Électroniques & Gestion Documentaire](#7-juridique-signatures-électroniques--gestion-documentaire)
+8. [📣 Marketing & Communications](#8-marketing--communications)
 
 ---
 
@@ -21,14 +22,17 @@ Une cartographie logicielle adaptée au passage à l'échelle des entreprises. L
 * **[SuiteCRM](https://suitecrm.com/)** – Framework d'entreprise ultra-personnalisable calqué directement sur les fonctionnalités de Salesforce.
 * **[Twenty](https://twenty.com/)** – Un CRM moderne basé sur React/Node.js, conçu spécifiquement pour l'extensibilité par les développeurs.
 * **[EspoCRM](https://www.espocrm.com/)** – Moteur PHP léger et performant avec des outils d'automatisation interne robustes.
+* **[Odoo Community Edition](https://www.odoo.com/)** – Un framework ERP de base entièrement gratuit et auto-hébergeable, regroupant des modules de facturation essentielle, de CRM de base, de gestion des stocks et de projets.
 
 ### 🎁 Offres Gratuites (Free Tiers - Cloud)
 * **[HubSpot CRM (Version Gratuite)](https://www.hubspot.com/)** – Suivi des contacts et pipelines visuels avec synchronisation automatique des e-mails.
 * **[Zoho CRM (Édition Gratuite)](https://www.zoho.com/crm/)** – Instance cloud multi-utilisateur simplifiée pour la gestion de base des flux de contacts.
+* **[Odoo Online (Règle de l'application unique)](https://www.odoo.com/)** – Instance cloud gratuite sans limite de temps et pour un nombre d'utilisateurs illimité, à condition de restreindre strictement son utilisation à un seul module applicatif (ex. uniquement le CRM ou uniquement la Facturation).
 
 ### 💎 Écosystèmes Premium / Entreprise
 * **[Salesforce Sales Cloud](https://www.salesforce.com/)** – La référence mondiale pour l'orchestration de données complexes et les pipelines enrichis à l'IA.
 * **[Nutshell](https://www.nutshell.com/)** – Outil de pipeline optimisé intégrant des prévisions de clôture basées sur l'intelligence artificielle native.
+* **[Odoo Enterprise (Cloud/On-Premise)](https://www.odoo.com/)** – La version payante qui débloque les architectures multi-bases de données, les règles d'automatisation avancées, les localisations comptables et l'intégralité de l'écosystème d'applications interconnectées.
 
 ---
 
@@ -121,3 +125,20 @@ Une cartographie logicielle adaptée au passage à l'échelle des entreprises. L
 ### 💎 Écosystèmes Premium / Entreprise
 * **[DocuSign](https://www.docusign.com/)** – La référence internationale incontournable pour la vérification légale, le suivi de conformité strict et les processus de clôture de transactions (notamment immobilières).
 * **[PandaDoc](https://www.pandadoc.com/)** – Suite juridique axée sur l'efficacité commerciale, proposant des propositions dynamiques soignées, des grilles de tarification interactives et des flux de validation.
+
+---
+
+## 📣 8. Marketing & Communications
+
+### 🔓 Open-Source (OSS - Auto-Hébergé)
+* **[Mautic](https://www.mautic.org/)** – Une plateforme d'automatisation marketing puissante permettant de concevoir des campagnes d'e-mailing, de suivre les leads et de créer des pages d'atterrissage.
+* **[Ghost](https://ghost.org/)** – Plateforme de publication moderne basée sur Node.js, optimisée pour les blogs professionnels, les newsletters payantes et le marketing d'abonnement.
+* **[Chatwoot](https://www.chatwoot.com/)** – Un moteur de relation client omnicanal centralisant les widgets de chat en direct, WhatsApp et les réseaux sociaux dans un espace collaboratif.
+
+### 🎁 Offres Gratuites (Free Tiers - Cloud)
+* **[Brevo (Plan Gratuit)](https://www.brevo.com/)** – Version cloud gratuite généreuse pour le marketing par e-mail, permettant d'envoyer jusqu'à 300 e-mails par jour vers un nombre illimité de contacts.
+* **[Buffer (Plan Gratuit)](https://buffer.com/)** – Outil d'aide à la planification sur les réseaux sociaux proposant une offre gratuite pour connecter vos comptes principaux et planifier vos publications de base.
+
+### 💎 Écosystèmes Premium / Entreprise
+* **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** – La référence premium d'entreprise pour le marketing entrant (inbound), combinant le scoring de leads, le suivi SEO et des automatisations poussées.
+* **[Twilio](https://www.twilio.com/)** – L'infrastructure de communication programmable standard pour la gestion des campagnes mondiales de SMS, d'appels vocaux et de messages automatisés.
