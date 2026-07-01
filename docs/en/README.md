@@ -12,6 +12,7 @@ A production-ready map of software ecosystems designed to manage business scalin
 5. [📅 Project & Workspace Management](#5-project--workspace-management)
 6. [📈 Business Intelligence (BI) & Analytics](#6-business-intelligence-bi--analytics)
 7. [⚖️ Legal, E-Signatures & Document Management](#7-legal-e-signatures--document-management)
+8. [📣 Marketing & Communications](#marketing--communications)
 
 ---
 
@@ -21,14 +22,17 @@ A production-ready map of software ecosystems designed to manage business scalin
 * **[SuiteCRM](https://suitecrm.com/)** – Deeply customizable, enterprise-grade framework modeled directly after Salesforce features.
 * **[Twenty](https://twenty.com/)** – A modern, visually stunning React/Node.js CRM crafted specifically for developer extensibility.
 * **[EspoCRM](https://www.espocrm.com/)** – Highly responsive, lightweight PHP engine with robust internal automation tools.
+* **[Odoo Community Edition](https://www.odoo.com/)** – A completely free, self-hosted core ERP framework encompassing core invoicing, basic CRM, inventory, and project management modules.
 
 ### 🎁 Free Tiers (Cloud-Hosted Entry Points)
 * **[HubSpot CRM (Free Tier)](https://www.hubspot.com/)** – Industry-leading contact tracking and visual pipelines with free email logging integrations.
 * **[Zoho CRM (Free Edition)](https://www.zoho.com/crm/)** – Scaled-down multi-user cloud instance emphasizing basic contact workflows for early startups.
+* **[Odoo Online (Free App Rule)](https://www.odoo.com/)** – Cloud-hosted instance that remains free indefinitely with unlimited users, provided your operational stack is strictly limited to a single application module (e.g., just CRM or just Invoicing).
 
 ### 💎 Premium / Enterprise Ecosytems
 * **[Salesforce Sales Cloud](https://www.salesforce.com/)** – The global heavyweight standard for complex enterprise data orchestration and AI pipeline logic.
 * **[Nutshell](https://www.nutshell.com/)** – Highly focused, out-of-the-box pipeline tool equipped with native AI-powered close forecasting features.
+* **[Odoo Enterprise (Cloud/On-Premise)](https://www.odoo.com/)** – The paid tier that unlocks multi-database architectures, advanced automation rules, accounting localizations, and the complete, interconnected app ecosystem for scaling businesses.
 
 ---
 
@@ -121,3 +125,20 @@ A production-ready map of software ecosystems designed to manage business scalin
 ### 💎 Premium / Enterprise Ecosystems
 * **[DocuSign](https://www.docusign.com/)** – The globally accepted standard for legal verification, complete compliance tracking, and enterprise-level real estate closing workflows.
 * **[PandaDoc](https://www.pandadoc.com/)** – Premium sales-forward legal suite built around beautiful dynamic proposals, interactive quoting matrices, and workflow triggers.
+
+---
+
+## 📣 8. Marketing & Communications
+
+### 🔓 Open-Source (OSS - Self-Hosted)
+* **[Mautic](https://www.mautic.org/)** – A powerful, feature-rich marketing automation platform allowing teams to build email campaigns, track leads, and create landing pages.
+* **[Ghost](https://ghost.org/)** – Modern publishing platform built on Node.js, optimized specifically for professional blogs, paid newsletters, and membership marketing businesses.
+* **[Chatwoot](https://www.chatwoot.com/)** – An omnichannel customer engagement engine that unifies website live chat, WhatsApp, and social media messaging into one dashboard.
+
+### 🎁 Free Tiers (Cloud-Hosted Entry Points)
+* **[Brevo / Sendinblue (Free Plan)](https://www.brevo.com/)** – Generous free cloud-hosted email marketing tier allowing businesses to send up to 300 emails per day to unlimited contacts.
+* **[Buffer (Free Plan)](https://buffer.com/)** – A streamlined social media scheduling tool offering a free tier to connect basic channels and queue up structural posts.
+
+### 💎 Premium / Enterprise Ecosystems
+* **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** – The premier premium enterprise powerhouse for inbound marketing, combining advanced lead scoring, deep SEO tracking, and multi-channel automation.
+* **[Twilio](https://www.twilio.com/)** – The absolute standard enterprise programmable communication infrastructure framework for global SMS, voice dialing, and automated carrier-compliant messaging campaigns.
