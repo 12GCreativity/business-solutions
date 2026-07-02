@@ -5,14 +5,14 @@
 A production-ready map of software ecosystems designed to manage business scaling. Platforms are categorized explicitly into self-hosted **Open-Source (OSS)**, cloud-hosted **Free Tiers**, and commercial **Premium/Enterprise** solutions.
 
 ## 📌 Table of Contents
-1. [📊 Customer Relationship Management (CRM)](#1-customer-relationship-management-crm)
-2. [🏢 Enterprise Resource Planning (ERP)](#2-enterprise-resource-planning-erp)
-3. [💰 Invoicing, Accounting & Finance](#3-invoicing-accounting--finance)
-4. [👥 Human Resource Management (HRM)](#4-human-resource-management-hrm)
-5. [📅 Project & Workspace Management](#5-project--workspace-management)
-6. [📈 Business Intelligence (BI) & Analytics](#6-business-intelligence-bi--analytics)
-7. [⚖️ Legal, E-Signatures & Document Management](#7-legal-e-signatures--document-management)
-8. [📣 Marketing & Communications](#marketing--communications)
+1. [📊 Customer Relationship Management (CRM)](#-1-customer-relationship-management-crm)
+2. [🏢 Enterprise Resource Planning (ERP)](#-2-enterprise-resource-planning-erp)
+3. [💰 Invoicing, Accounting & Finance](#-3-invoicing-accounting--finance)
+4. [👥 Human Resource Management (HRM)](#-4-human-resource-management-hrm)
+5. [📅 Project & Workspace Management](#-5-project--workspace-management)
+6. [📈 Business Intelligence (BI) & Analytics](#-6-business-intelligence-bi--analytics)
+7. [⚖️ Legal, E-Signatures & Document Management](#-7-legal-e-signatures--document-management)
+8. [📣 Marketing & Communications](#-8-marketing--communications)
 
 ---
 
