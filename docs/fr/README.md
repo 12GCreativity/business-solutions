@@ -5,14 +5,14 @@
 Une cartographie logicielle adaptée au passage à l'échelle des entreprises. Les solutions sont explicitement classées en trois catégories : **Open-Source (OSS)** auto-hébergé, offres **Gratuites (Free Tiers)** sur le cloud, et écosystèmes **Premium / Enterprise**.
 
 ## 📌 Table des Matières
-1. [📊 Gestion de la Relation Client (CRM)](#1-gestion-de-la-relation-client-crm)
-2. [🏢 Planification des Ressources de l'Entreprise (ERP)](#2-planification-des-ressources-de-lentreprise-erp)
-3. [💰 Facturation, Comptabilité & Finance](#3-facturation-comptabilité--finance)
-4. [👥 Gestion des Ressources Humaines (HRM)](#4-gestion-des-ressources-humaines-hrm)
-5. [📅 Gestion de Projet & Espace de Travail](#5-gestion-de-projet--espace-de-travail)
-6. [📈 Business Intelligence (BI) & Analyse de Données](#6-business-intelligence-bi--analyse-de-données)
-7. [⚖️ Juridique, Signatures Électroniques & Gestion Documentaire](#7-juridique-signatures-électroniques--gestion-documentaire)
-8. [📣 Marketing & Communications](#8-marketing--communications)
+1. [📊 Gestion de la Relation Client (CRM)](#-1-gestion-de-la-relation-client-crm)
+2. [🏢 Planification des Ressources de l'Entreprise (ERP)](#-2-planification-des-ressources-de-lentreprise-erp)
+3. [💰 Facturation, Comptabilité & Finance](#-3-facturation-comptabilité--finance)
+4. [👥 Gestion des Ressources Humaines (HRM)](#-4-gestion-des-ressources-humaines-hrm)
+5. [📅 Gestion de Projet & Espace de Travail](#-5-gestion-de-projet--espace-de-travail)
+6. [📈 Business Intelligence (BI) & Analyse de Données](#-6-business-intelligence-bi--analyse-de-données)
+7. [⚖️ Juridique, Signatures Électroniques & Gestion Documentaire](#-7-juridique-signatures-électroniques--gestion-documentaire)
+8. [📣 Marketing & Communications](#-8-marketing--communications)
 
 ---
 
